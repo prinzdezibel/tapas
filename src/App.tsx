@@ -5,7 +5,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Tapas</h1> 
+        <h1>~Tapas~</h1> 
         <pre>
           {JSON.stringify(process.env)}
         </pre>
